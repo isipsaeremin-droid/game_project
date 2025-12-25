@@ -19,6 +19,7 @@ packages = ["games_project_eremin/VD_games"]
 [project.scripts]
 VD-games = "games_project_eremin.VD_games.scripts.VD_main:main"
 VD-even = "games_project_eremin.VD_games.scripts.VD_even:main"
+VD-calc = "games_project_eremin.VD_games.scripts.brain_calc:main"
 
 [tool.ruff]
 target-version = "py312"
