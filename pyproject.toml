@@ -21,6 +21,8 @@ VD-games = "games_project_eremin.VD_games.scripts.VD_main:main"
 VD-even = "games_project_eremin.VD_games.scripts.VD_even:main"
 VD-calc = "games_project_eremin.VD_games.scripts.brain_calc:main"
 VD-gcd = "games_project_eremin.VD_games.scripts.VD_gcd:main"
+VD-progression = "games_project_eremin.VD_games.scripts.vd_progression:main"
+VD-prime = "games_project_eremin.VD_games.scripts.vd_prime:main"
 
 [tool.ruff]
 target-version = "py312"
